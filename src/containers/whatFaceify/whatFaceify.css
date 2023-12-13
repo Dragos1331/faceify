@@ -85,6 +85,11 @@
 @media screen and (max-width: 650px) {
 
     /* Customizing feature component as per needs */
+    .faceify__whatfaceify {
+        margin: 1.5rem;
+    }
+
+
     .faceify__whatfaceify-feature .faceify__whatfaceify-container__feature {
         flex-direction: column;
     }
@@ -96,6 +101,12 @@
 
     .faceify__whatfaceify-heading h1 {
         font-size: 28px;
+        line-height: 40px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .faceify__footer-heading h1 {
         line-height: 40px;
     }
 }
