@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/faceify/static/css/main.3d381f2a.css",
+    "main.css": "/faceify/static/css/main.8a1dc322.css",
     "main.js": "/faceify/static/js/main.fb300e56.js",
     "static/media/ai.png": "/faceify/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/faceify/static/media/possibility.525f13b61a2157d44de0.png",
@@ -12,11 +12,11 @@
     "static/media/people.png": "/faceify/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.png": "/faceify/static/media/logo.5a7aa7fcd2212ca8615b.png",
     "index.html": "/faceify/index.html",
-    "main.3d381f2a.css.map": "/faceify/static/css/main.3d381f2a.css.map",
+    "main.8a1dc322.css.map": "/faceify/static/css/main.8a1dc322.css.map",
     "main.fb300e56.js.map": "/faceify/static/js/main.fb300e56.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d381f2a.css",
+    "static/css/main.8a1dc322.css",
     "static/js/main.fb300e56.js"
   ]
 }
