@@ -1,0 +1,110 @@
+.faceify__whatfaceify {
+    display: flex;
+    flex-direction: column;
+
+    padding: 2rem;
+    margin: 0 5rem;
+    background: var(--color-footer);
+
+    background: radial-gradient(circle at 3% 25%, rgba(96, 0, 0, 1) 0%, rgba(40, 2, 40, 1) 100%);
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.faceify__whatfaceify-feature {
+    display: flex;
+}
+
+.faceify__whatfaceify-feature .faceify__features-container__feature {
+    margin: 0;
+}
+
+.faceify__whatfaceify-feature .faceify__features-container__feature-text {
+    max-width: 700px;
+}
+
+.faceify__whatfaceify-heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 4rem 0 2rem;
+}
+
+.faceify__whatfaceify-heading h1 {
+    font-size: 34px;
+    line-height: 45px;
+    font-weight: 800;
+    max-width: 510px;
+    font-family: var(--font-family);
+}
+
+.faceify__whatfaceify-heading p {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: var(--color-subtext);
+    cursor: pointer;
+}
+
+.faceify__whatfaceify-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 2rem;
+}
+
+
+
+.faceify__whatfaceify-container .faceify__whatfaceify-container__feature {
+    flex: 1;
+    margin: 1rem;
+    min-width: 210px;
+    display: unset;
+    flex-direction: column;
+}
+
+/* Customizing feature component as per needs */
+.faceify__whatfaceify-container .faceify__whatfaceify-container_feature-text {
+    margin-top: 0.5rem;
+}
+
+@media screen and (max-width: 850px) {
+    .faceify__whatfaceify-heading {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 0rem;
+    }
+
+    .faceify__whatfaceify-heading p {
+        margin-top: 1rem;
+    }
+}
+
+@media screen and (max-width: 650px) {
+
+    /* Customizing feature component as per needs */
+    .faceify__whatfaceify-feature .faceify__whatfaceify-container__feature {
+        flex-direction: column;
+    }
+
+    /* Customizing feature component as per needs */
+    .faceify__whatfaceify-feature .faceify__whatfaceify-container_feature-text {
+        margin-top: 0.5rem;
+    }
+
+    .faceify__whatfaceify-heading h1 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+
+    /* Customizing feature component as per needs */
+    .faceify__whatfaceify-container .faceify__whatfaceify-container__feature {
+        margin: 1rem 0;
+        min-width: 100%;
+    }
+}
