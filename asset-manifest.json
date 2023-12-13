@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/faceify/static/css/main.3d381f2a.css",
+    "main.js": "/faceify/static/js/main.fb300e56.js",
+    "static/media/ai.png": "/faceify/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/faceify/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.jpg": "/faceify/static/media/blog01.d52f08f01e00ee940309.jpg",
+    "static/media/blog03.jpg": "/faceify/static/media/blog03.a3124a913d5a556389ba.jpg",
+    "static/media/blog05.jpg": "/faceify/static/media/blog05.569a9875284594757aed.jpg",
+    "static/media/blog02.jpg": "/faceify/static/media/blog02.04019cab6a37aab917e3.jpg",
+    "static/media/blog04.jpg": "/faceify/static/media/blog04.475ffab8bf8236e1738b.jpg",
+    "static/media/people.png": "/faceify/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.png": "/faceify/static/media/logo.5a7aa7fcd2212ca8615b.png",
+    "index.html": "/faceify/index.html",
+    "main.3d381f2a.css.map": "/faceify/static/css/main.3d381f2a.css.map",
+    "main.fb300e56.js.map": "/faceify/static/js/main.fb300e56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d381f2a.css",
+    "static/js/main.fb300e56.js"
+  ]
+}
